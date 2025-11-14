@@ -114,7 +114,7 @@ Monitor and compare monthly sales performance across store branches, identify hi
 
 ### Coffee Shop Sales Dashboard
 
-<img width="1789" height="1006" alt="Coffee Shop Sales Power BI Dashboard" src="https://github.com/user-attachments/assets/007674ca-954b-4815-91c0-7511fc52f879" />
+<img width="1794" height="1011" alt="Coffee Shop Sales Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/4a119f50-249e-4069-8e4b-26bd1c980bea" />
 
 <img width="1207" height="903" alt="Tooltip_1" src="https://github.com/user-attachments/assets/ded20791-17d8-48a1-bd7c-307a9985550f" />
 
